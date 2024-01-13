@@ -14,5 +14,5 @@ server.get("/fruits", (req, res) => {
 // Use default router
 server.use(router);
 server.listen(4201, () => {
-  console.log("JSON Server is running");
+  console.log("JSON Server is running on port 4201");
 });
