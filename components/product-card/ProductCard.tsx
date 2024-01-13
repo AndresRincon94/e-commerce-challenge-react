@@ -11,7 +11,7 @@ export default function ProductCard({ fruit }: { fruit: Fruit }) {
       </div>
       <h2 className="text-2xl font-bold">{fruit.name}</h2>
       <p className="text-sm">${fruit.price}</p>
-      <button className="block w-full md:w-1/2 bg-red-600 hover:bg-red-800 py-1 rounded text-white">Buy</button>
+      <button className="primary-button">Buy</button>
     </div>
   );
 }
