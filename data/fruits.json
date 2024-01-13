@@ -1,0 +1,67 @@
+{
+    "fruits": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "price": 1000,
+            "description": "Red Apple",
+            "image": "https://images.unsplash.com/photo-1611574474484-ced6cb70a2cf?q=80&w=620&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "price": 500,
+            "description": "Banana unity",
+            "image": "https://images.unsplash.com/photo-1580750569071-cc51212346f6?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 3,
+            "name": "watermelon",
+            "price": 12000,
+            "description": "Complete watermelon",
+            "image": "https://plus.unsplash.com/premium_photo-1663855531381-f9c100b3c48f?q=80&w=640&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 4,
+            "name": "Kiwi",
+            "price": 8000,
+            "description": "Small kiwi",
+            "image": "https://images.unsplash.com/photo-1699029330848-335e7e2c073f?q=80&w=620&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 5,
+            "name": "Orange",
+            "price": 5000,
+            "description": "Orange pound",
+            "image": "https://images.unsplash.com/photo-1704514282891-6573f426aa06?q=80&w=620&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 6,
+            "name": "Papaya",
+            "price": 4000,
+            "description": "Papaya unity",
+            "image": "https://images.unsplash.com/photo-1570044803045-d790fc159af3?q=80&w=620&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 7,
+            "name": "Lemon",
+            "price": 3000,
+            "description": "Lemon Mesh",
+            "image": "https://images.unsplash.com/photo-1606924930814-1efba5432775?q=80&w=620&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 8,
+            "name": "Strawberry",
+            "price": 4500,
+            "description": "Strawberry pound",
+            "image": "https://images.unsplash.com/photo-1574856344991-aaa31b6f4ce3?q=80&w=620&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 9,
+            "name": "Pineapple",
+            "price": 3500,
+            "description": "Pineapple unity",
+            "image": "https://images.unsplash.com/photo-1550828520-4cb496926fc9?q=80&w=620&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ]
+}
