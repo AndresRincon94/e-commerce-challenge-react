@@ -1,0 +1,39 @@
+{
+  "users": [
+      {
+          "id": 123,
+          "name": "Testing",
+          "username": "Test",
+          "password": "0000",
+          "avatar": "https://randomuser.me/api/portraits/men/10.jpg"
+      },
+      {
+          "id": 0,
+          "name": "Andrés Rincón",
+          "username": "Andrew",
+          "password": "test1234",
+          "avatar": "https://randomuser.me/api/portraits/men/33.jpg"
+      },
+      {
+          "id": 124,
+          "name": "luisa Sanchez",
+          "username": "luisa",
+          "password": "test1234",
+          "avatar": "https://randomuser.me/api/portraits/women/33.jpg"
+      },
+      {
+          "id": 125,
+          "name": "Camila Diaz",
+          "username": "Cami",
+          "password": "test1234",
+          "avatar": "https://randomuser.me/api/portraits/women/30.jpg"
+      },
+      {
+          "id": 126,
+          "name": "Jorge Paz",
+          "username": "Andrew",
+          "password": "test1234",
+          "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+      }
+  ]
+}
