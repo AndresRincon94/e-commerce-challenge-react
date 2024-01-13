@@ -6,9 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "serve:data": "node data/server.js",
     "lint": "next lint"
   },
   "dependencies": {
+    "json-server": "^0.17.0",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.0.4"
