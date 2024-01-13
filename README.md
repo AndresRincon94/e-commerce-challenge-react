@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fruits shop
 
-## Getting Started
+Fruits shop is a simple fruits e-commerce.
 
-First, run the development server:
+## Installation
+
+Use the package manager `npm` to install the dependencies.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+```
+## Starting
+
+Start the 2 projects
+
+```bash
+npm run serve:data 
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:4251/fruits](http://localhost:4251/fruits) with your browser to see the JSON local server.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Open [http://localhost:3000/shop](http://localhost:3000/shop) with your browser to see the fruits shop.
 
-## Learn More
+## Usage
 
-To learn more about Next.js, take a look at the following resources:
+You have 2 links enabled,
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[http://localhost:3000/shop](http://localhost:3000/shop) where you can see the fruit store
+[http://localhost:3000/login](http://localhost:3000/login) where you can log in
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**_NOTE:_**
 
-## Deploy on Vercel
+If you enter any user and password the API response with the test user only for this challenge
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**other Available users:** 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1.  { "username": "Test",  "password": "0000" }
+2.  { "username": "Andrew", "password": "test1234" }
+3.  { "username": "luisa", "password": "test1234", }
+
+if you want logout, you can click the user image next to `Welcome, { name }`
