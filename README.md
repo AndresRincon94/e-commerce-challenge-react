@@ -17,13 +17,17 @@ Start the 2 projects
 npm run serve:data 
 ```
 
-Open [http://localhost:4251/fruits](http://localhost:4251/fruits) with your browser to see the JSON local server.
+Open [http://localhost:4201/fruits](http://localhost:4201/fruits) with your browser to see the JSON local server.
+
+![image](https://github.com/AndresRincon94/e-commerce-challenge-react/assets/44625127/d6cb08d0-2fd9-4935-bbd3-d2f79380e759)
 
 ```bash
-npm run start
+npm run dev
 ```
 
 Open [http://localhost:3000/shop](http://localhost:3000/shop) with your browser to see the fruits shop.
+
+![image](https://github.com/AndresRincon94/e-commerce-challenge-react/assets/44625127/31dda269-da40-4152-997e-3ae54fcdaaeb)
 
 ## Usage
 
